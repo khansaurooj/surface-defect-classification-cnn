@@ -1,7 +1,7 @@
-# Surface Defect Classification using CNN (NEU Dataset)
+# Stell Surface Defect Classification using CNN (NEU Dataset)
 
 ## Title
-Surface Defect Classification using Convolutional Neural Networks (CNN)
+Steel Surface Defect Classification using Convolutional Neural Networks (CNN)
 
 ## Description
 This project implements a deep learning–based image classification system for identifying
@@ -17,7 +17,7 @@ over-optimization.
 - **Classes:** Six defect categories (e.g., Crazing, Inclusion, Patches, Pitted Surface, Rolled-in Scale, Scratches)
 - **Data Type:** gray scale images
 - **Source:** Public academic dataset used widely for defect detection research
-- **Source:** https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
+- **Link:** https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
 <p align="center">
   <img src="images/dataset_sample.png" width="400">
 </p>
