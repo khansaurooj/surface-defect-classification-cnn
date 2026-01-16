@@ -19,7 +19,7 @@ over-optimization.
 - **Source:** Public academic dataset used widely for defect detection research
 - **Source:** https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
 <p align="center">
-  <img src="images/dataset_sample.png" width="800">
+  <img src="images/dataset_sample.png" width="400">
 </p>
 
 The dataset is organized into training and validation directories, with one subfolder per class.
