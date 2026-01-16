@@ -17,9 +17,13 @@ over-optimization.
 - **Classes:** Six defect categories (e.g., Crazing, Inclusion, Patches, Pitted Surface, Rolled-in Scale, Scratches)
 - **Data Type:** gray scale images
 - **Source:** Public academic dataset used widely for defect detection research
+- **Source:** https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
+- ![Dataset Samples](images/dataset_sample.png)
 
 The dataset is organized into training and validation directories, with one subfolder per class.
+## Project Workflow
 
+![Project Workflow](images/workflow.png)
 ## Code Information
 - **Language:** Python
 - **Framework:** TensorFlow / Keras
@@ -32,7 +36,9 @@ The code covers:
 - CNN model definition
 - Training and validation
 - Model saving
+## Model Training Performance
 
+![Training Accuracy](images/training_accuracy.png)
 ## Usage Instructions
 1. Download or clone this repository.
 2. Obtain the NEU dataset and arrange it as:
@@ -53,6 +59,7 @@ The code covers:
    python neu_defect_classifier.py
    ```
 5. The trained model will be saved as `neu_defect_classifier.h5`.
+
 
 ## Requirements
 - Python 3.8+
