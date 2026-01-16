@@ -27,7 +27,7 @@ The dataset is organized into training and validation directories, with one subf
 ## Project Workflow
 
 <p align="center">
-  <img src="images/workflow.png" width="600">
+  <img src="images/workflow.png" width="400">
 </p>
 
 ## Code Information
@@ -44,7 +44,7 @@ The code covers:
 - Model saving
 ## Model Training Performance
 <p align="center">
-  <img src="images/training_accuracy.png" width="800">
+  <img src="images/training_accuracy.png" width="400">
 </p>
 
 ## Usage Instructions
