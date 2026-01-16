@@ -42,7 +42,8 @@ The code covers:
 - CNN model definition
 - Training and validation
 - Model saving
-## Model Training Performance
+  
+## Performance
 <p align="center">
   <img src="images/training_accuracy.png" width="400">
 </p>
