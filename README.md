@@ -18,12 +18,18 @@ over-optimization.
 - **Data Type:** gray scale images
 - **Source:** Public academic dataset used widely for defect detection research
 - **Source:** https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
-- ![Dataset Samples](images/dataset_sample.png)
+<p align="center">
+  <img src="images/steel_defect_classes.png" width="800">
+</p>
 
 The dataset is organized into training and validation directories, with one subfolder per class.
+
 ## Project Workflow
 
-![Project Workflow](images/workflow.png)
+<p align="center">
+  <img src="images/workflow.png" width="600">
+</p>
+
 ## Code Information
 - **Language:** Python
 - **Framework:** TensorFlow / Keras
@@ -37,8 +43,10 @@ The code covers:
 - Training and validation
 - Model saving
 ## Model Training Performance
+<p align="center">
+  <img src="images/training_accuracy.png" width="800">
+</p>
 
-![Training Accuracy](images/training_accuracy.png)
 ## Usage Instructions
 1. Download or clone this repository.
 2. Obtain the NEU dataset and arrange it as:
