@@ -1,4 +1,4 @@
-# Stell Surface Defect Classification using CNN (NEU Dataset)
+# Steel Surface Defect Classification using CNN (NEU Dataset)
 
 ## Title
 Steel Surface Defect Classification using Convolutional Neural Networks (CNN)
